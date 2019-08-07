@@ -1,0 +1,17 @@
+.unimportant {
+  color: grey;
+}
+
+
+.important {
+  font-weight: bold;
+}
+
+.about {
+  color:red;
+}
+
+span {
+  color: blue;
+  font-style:italic;
+}
